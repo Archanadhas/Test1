@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="420493" started-at="2020-09-16T15:02:32 IST" finished-at="2020-09-16T15:09:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="420493" started-at="2020-09-16T15:02:32 IST" finished-at="2020-09-16T15:09:33 IST">
+      <class name="First1.Priority_demo">
+        <test-method status="PASS" signature="google()[pri:-1, instance:First1.Priority_demo@5ae63ade]" name="google" duration-ms="119592" started-at="2020-09-16T15:02:32 IST" finished-at="2020-09-16T15:04:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="Quickyes()[pri:0, instance:First1.Priority_demo@5ae63ade]" name="Quickyes" duration-ms="245161" started-at="2020-09-16T15:04:32 IST" finished-at="2020-09-16T15:08:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quickyes -->
+        <test-method status="PASS" signature="facebook()[pri:1, instance:First1.Priority_demo@5ae63ade]" name="facebook" duration-ms="55650" started-at="2020-09-16T15:08:37 IST" finished-at="2020-09-16T15:09:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+      </class> <!-- First1.Priority_demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
