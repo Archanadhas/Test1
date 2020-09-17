@@ -11,6 +11,7 @@ public class day1 {
 	public void MobileLogin()
 	{
 		System.out.println("Belong to day1 Method Name Is:MobileLogin");
+                System.out.println("Git hub cloning");
 	}
 	@AfterTest
 	public void MobileLogout()
